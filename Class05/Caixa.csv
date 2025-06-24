@@ -1,0 +1,121 @@
+Data,Descrição,Tipo,Categoria,Valor,Forma de Pagamento,Banco,Centro de Custo,Impostos,% Impostos,Observações
+01/01/2024,Venda de calçados modelo D,Entrada,Vendas,14000,Transferência,Banco A,Vendas,1400,10%,Pagamento à vista
+02/01/2024,Compra de matéria-prima,Saída,Custo Variável,-3700,Cartão de Crédito,Banco B,Compras,380,10%,Estoque inicial
+05/01/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-1600,Boleto Bancário,Banco A,Compras,170,12%,Pagamento antecipado
+10/01/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-800,Cartão de Crédito,Banco A,Marketing,85,11%,Campanha online
+12/01/2024,Venda de calçados modelo E,Entrada,Vendas,14000,Pix,Banco A,Vendas,1420,10%,Pagamento à vista
+15/01/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-2100,Transferência,Banco A,Administrativa,220,10%,Aluguel mensal
+18/01/2024,Compra de calçados modelo F,Saída,Custo Variável,-3500,Boleto Bancário,Banco B,Compras,360,12%,Compras do mês
+22/01/2024,Venda de calçados modelo D,Entrada,Vendas,12500,Transferência,Banco A,Vendas,1300,10%,Pagamento à vista
+25/01/2024,Recebimento de juros bancários,Entrada,Não Operacional,350,Pix,Banco A,Juros,35,10%,Juros sobre saldo bancário
+28/01/2024,Despesas com funcionários,Saída,Despesas Fixas,-3100,Transferência,Banco A,Recursos Humanos,330,8%,Salários janeiro
+01/02/2024,Venda de calçados modelo G,Entrada,Vendas,15500,Transferência,Banco A,Vendas,1550,10%,Pagamento à vista
+03/02/2024,Compra de matéria-prima,Saída,Custo Variável,-3800,Cartão de Crédito,Banco B,Compras,390,12%,Estoque inicial
+05/02/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-1700,Boleto Bancário,Banco A,Compras,180,11%,Pagamento antecipado
+10/02/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-850,Cartão de Crédito,Banco A,Marketing,85,10%,Campanha online
+12/02/2024,Venda de calçados modelo H,Entrada,Vendas,16000,Pix,Banco A,Vendas,1600,10%,Pagamento à vista
+15/02/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-2200,Transferência,Banco A,Administrativa,230,10%,Aluguel mensal
+18/02/2024,Compra de calçados modelo I,Saída,Custo Variável,-3400,Boleto Bancário,Banco B,Compras,340,12%,Compras do mês
+22/02/2024,Venda de calçados modelo G,Entrada,Vendas,14500,Transferência,Banco A,Vendas,1450,9%,Pagamento à vista
+25/02/2024,Recebimento de juros bancários,Entrada,Não Operacional,300,Pix,Banco A,Juros,32,10%,Juros sobre saldo bancário
+28/02/2024,Despesas com funcionários,Saída,Despesas Fixas,-3200,Transferência,Banco A,Recursos Humanos,340,8%,Salários fevereiro
+01/03/2024,Venda de calçados modelo J,Entrada,Vendas,15000,Transferência,Banco A,Vendas,1500,10%,Pagamento à vista
+03/03/2024,Compra de matéria-prima,Saída,Custo Variável,-3900,Cartão de Crédito,Banco B,Compras,400,9%,Estoque inicial
+05/03/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-1800,Boleto Bancário,Banco A,Compras,190,10%,Pagamento antecipado
+10/03/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-900,Cartão de Crédito,Banco A,Marketing,95,12%,Campanha online
+12/03/2024,Venda de calçados modelo K,Entrada,Vendas,15500,Pix,Banco A,Vendas,1550,10%,Pagamento à vista
+15/03/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-2300,Transferência,Banco A,Administrativa,240,10%,Aluguel mensal
+18/03/2024,Compra de calçados modelo L,Saída,Custo Variável,-3600,Boleto Bancário,Banco B,Compras,370,11%,Compras do mês
+22/03/2024,Venda de calçados modelo J,Entrada,Vendas,15000,Transferência,Banco A,Vendas,1500,10%,Pagamento à vista
+25/03/2024,Recebimento de juros bancários,Entrada,Não Operacional,280,Pix,Banco A,Juros,28,10%,Juros sobre saldo bancário
+28/03/2024,Despesas com funcionários,Saída,Despesas Fixas,-3300,Transferência,Banco A,Recursos Humanos,340,10%,Salários março
+01/04/2024,Venda de calçados modelo M,Entrada,Vendas,16000,Transferência,Banco A,Vendas,1600,10%,Pagamento à vista
+03/04/2024,Compra de matéria-prima,Saída,Custo Variável,-4000,Cartão de Crédito,Banco B,Compras,420,11%,Estoque inicial
+05/04/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-1900,Boleto Bancário,Banco A,Compras,200,12%,Pagamento antecipado
+10/04/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-1000,Cartão de Crédito,Banco A,Marketing,105,10%,Campanha online
+12/04/2024,Venda de calçados modelo N,Entrada,Vendas,17000,Pix,Banco A,Vendas,1700,10%,Pagamento à vista
+15/04/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-2400,Transferência,Banco A,Administrativa,250,10%,Aluguel mensal
+18/04/2024,Compra de calçados modelo O,Saída,Custo Variável,-3700,Boleto Bancário,Banco B,Compras,380,9%,Compras do mês
+22/04/2024,Venda de calçados modelo M,Entrada,Vendas,15500,Transferência,Banco A,Vendas,1550,12%,Pagamento à vista
+25/04/2024,Recebimento de juros bancários,Entrada,Não Operacional,300,Pix,Banco A,Juros,30,10%,Juros sobre saldo bancário
+28/04/2024,Despesas com funcionários,Saída,Despesas Fixas,-3400,Transferência,Banco A,Recursos Humanos,350,8%,Salários abril
+01/05/2024,Venda de calçados modelo P,Entrada,Vendas,14500,Transferência,Banco A,Vendas,1450,9%,Pagamento à vista
+03/05/2024,Compra de matéria-prima,Saída,Custo Variável,-4100,Cartão de Crédito,Banco B,Compras,420,10%,Estoque inicial
+05/05/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-2000,Boleto Bancário,Banco A,Compras,210,11%,Pagamento antecipado
+10/05/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-1100,Cartão de Crédito,Banco A,Marketing,120,12%,Campanha online
+12/05/2024,Venda de calçados modelo Q,Entrada,Vendas,16500,Pix,Banco A,Vendas,1650,10%,Pagamento à vista
+15/05/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-2500,Transferência,Banco A,Administrativa,260,8%,Aluguel mensal
+18/05/2024,Compra de calçados modelo R,Saída,Custo Variável,-3800,Boleto Bancário,Banco B,Compras,390,10%,Compras do mês
+22/05/2024,Venda de calçados modelo P,Entrada,Vendas,15000,Transferência,Banco A,Vendas,1500,10%,Pagamento à vista
+25/05/2024,Recebimento de juros bancários,Entrada,Não Operacional,320,Pix,Banco A,Juros,32,10%,Juros sobre saldo bancário
+28/05/2024,Despesas com funcionários,Saída,Despesas Fixas,-3500,Transferência,Banco A,Recursos Humanos,360,10%,Salários maio
+01/06/2024,Venda de calçados modelo S,Entrada,Vendas,17500,Transferência,Banco A,Vendas,1750,10%,Pagamento à vista
+03/06/2024,Compra de matéria-prima,Saída,Custo Variável,-4200,Cartão de Crédito,Banco B,Compras,430,10%,Estoque inicial
+05/06/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-2100,Boleto Bancário,Banco A,Compras,220,11%,Pagamento antecipado
+10/06/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-1200,Cartão de Crédito,Banco A,Marketing,130,12%,Campanha online
+12/06/2024,Venda de calçados modelo T,Entrada,Vendas,18000,Pix,Banco A,Vendas,1800,10%,Pagamento à vista
+15/06/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-2600,Transferência,Banco A,Administrativa,270,10%,Aluguel mensal
+18/06/2024,Compra de calçados modelo U,Saída,Custo Variável,-3900,Boleto Bancário,Banco B,Compras,400,10%,Compras do mês
+22/06/2024,Venda de calçados modelo S,Entrada,Vendas,16500,Transferência,Banco A,Vendas,1650,10%,Pagamento à vista
+25/06/2024,Recebimento de juros bancários,Entrada,Não Operacional,350,Pix,Banco A,Juros,35,10%,Juros sobre saldo bancário
+28/06/2024,Despesas com funcionários,Saída,Despesas Fixas,-3600,Transferência,Banco A,Recursos Humanos,380,8%,Salários junho
+01/07/2024,Venda de calçados modelo V,Entrada,Vendas,19000,Transferência,Banco A,Vendas,1900,10%,Pagamento à vista
+03/07/2024,Compra de matéria-prima,Saída,Custo Variável,-4300,Cartão de Crédito,Banco B,Compras,440,10%,Estoque inicial
+05/07/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-2200,Boleto Bancário,Banco A,Compras,230,11%,Pagamento antecipado
+10/07/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-1300,Cartão de Crédito,Banco A,Marketing,140,12%,Campanha online
+12/07/2024,Venda de calçados modelo W,Entrada,Vendas,20000,Pix,Banco A,Vendas,2000,10%,Pagamento à vista
+15/07/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-2700,Transferência,Banco A,Administrativa,280,10%,Aluguel mensal
+18/07/2024,Compra de calçados modelo X,Saída,Custo Variável,-4000,Boleto Bancário,Banco B,Compras,410,9%,Compras do mês
+22/07/2024,Venda de calçados modelo V,Entrada,Vendas,18000,Transferência,Banco A,Vendas,1800,10%,Pagamento à vista
+25/07/2024,Recebimento de juros bancários,Entrada,Não Operacional,320,Pix,Banco A,Juros,32,10%,Juros sobre saldo bancário
+28/07/2024,Despesas com funcionários,Saída,Despesas Fixas,-3700,Transferência,Banco A,Recursos Humanos,380,8%,Salários julho
+01/08/2024,Venda de calçados modelo Y,Entrada,Vendas,21000,Transferência,Banco A,Vendas,2100,10%,Pagamento à vista
+03/08/2024,Compra de matéria-prima,Saída,Custo Variável,-4400,Cartão de Crédito,Banco B,Compras,450,10%,Estoque inicial
+05/08/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-2300,Boleto Bancário,Banco A,Compras,240,11%,Pagamento antecipado
+10/08/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-1400,Cartão de Crédito,Banco A,Marketing,150,12%,Campanha online
+12/08/2024,Venda de calçados modelo Z,Entrada,Vendas,22000,Pix,Banco A,Vendas,2200,10%,Pagamento à vista
+15/08/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-2800,Transferência,Banco A,Administrativa,290,10%,Aluguel mensal
+18/08/2024,Compra de calçados modelo AA,Saída,Custo Variável,-4100,Boleto Bancário,Banco B,Compras,420,10%,Compras do mês
+22/08/2024,Venda de calçados modelo Y,Entrada,Vendas,20000,Transferência,Banco A,Vendas,2000,10%,Pagamento à vista
+25/08/2024,Recebimento de juros bancários,Entrada,Não Operacional,350,Pix,Banco A,Juros,35,10%,Juros sobre saldo bancário
+28/08/2024,Despesas com funcionários,Saída,Despesas Fixas,-3800,Transferência,Banco A,Recursos Humanos,390,10%,Salários agosto
+01/09/2024,Venda de calçados modelo BB,Entrada,Vendas,23000,Transferência,Banco A,Vendas,2300,10%,Pagamento à vista
+03/09/2024,Compra de matéria-prima,Saída,Custo Variável,-4500,Cartão de Crédito,Banco B,Compras,460,10%,Estoque inicial
+05/09/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-2400,Boleto Bancário,Banco A,Compras,250,11%,Pagamento antecipado
+10/09/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-1500,Cartão de Crédito,Banco A,Marketing,160,12%,Campanha online
+12/09/2024,Venda de calçados modelo CC,Entrada,Vendas,24000,Pix,Banco A,Vendas,2400,10%,Pagamento à vista
+15/09/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-2900,Transferência,Banco A,Administrativa,300,10%,Aluguel mensal
+18/09/2024,Compra de calçados modelo DD,Saída,Custo Variável,-4200,Boleto Bancário,Banco B,Compras,430,9%,Compras do mês
+22/09/2024,Venda de calçados modelo BB,Entrada,Vendas,21000,Transferência,Banco A,Vendas,2100,10%,Pagamento à vista
+25/09/2024,Recebimento de juros bancários,Entrada,Não Operacional,340,Pix,Banco A,Juros,34,10%,Juros sobre saldo bancário
+28/09/2024,Despesas com funcionários,Saída,Despesas Fixas,-3900,Transferência,Banco A,Recursos Humanos,400,8%,Salários setembro
+01/10/2024,Venda de calçados modelo EE,Entrada,Vendas,25000,Transferência,Banco A,Vendas,2500,10%,Pagamento à vista
+03/10/2024,Compra de matéria-prima,Saída,Custo Variável,-4600,Cartão de Crédito,Banco B,Compras,470,10%,Estoque inicial
+05/10/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-2500,Boleto Bancário,Banco A,Compras,260,11%,Pagamento antecipado
+10/10/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-1600,Cartão de Crédito,Banco A,Marketing,170,12%,Campanha online
+12/10/2024,Venda de calçados modelo FF,Entrada,Vendas,26000,Pix,Banco A,Vendas,2600,10%,Pagamento à vista
+15/10/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-3000,Transferência,Banco A,Administrativa,310,10%,Aluguel mensal
+18/10/2024,Compra de calçados modelo GG,Saída,Custo Variável,-4300,Boleto Bancário,Banco B,Compras,440,10%,Compras do mês
+22/10/2024,Venda de calçados modelo EE,Entrada,Vendas,23000,Transferência,Banco A,Vendas,2300,10%,Pagamento à vista
+25/10/2024,Recebimento de juros bancários,Entrada,Não Operacional,350,Pix,Banco A,Juros,35,10%,Juros sobre saldo bancário
+28/10/2024,Despesas com funcionários,Saída,Despesas Fixas,-4000,Transferência,Banco A,Recursos Humanos,410,8%,Salários outubro
+01/11/2024,Venda de calçados modelo HH,Entrada,Vendas,27000,Transferência,Banco A,Vendas,2700,10%,Pagamento à vista
+03/11/2024,Compra de matéria-prima,Saída,Custo Variável,-4700,Cartão de Crédito,Banco B,Compras,480,10%,Estoque inicial
+05/11/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-2600,Boleto Bancário,Banco A,Compras,270,11%,Pagamento antecipado
+10/11/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-1700,Cartão de Crédito,Banco A,Marketing,180,12%,Campanha online
+12/11/2024,Venda de calçados modelo II,Entrada,Vendas,28000,Pix,Banco A,Vendas,2800,10%,Pagamento à vista
+15/11/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-3100,Transferência,Banco A,Administrativa,320,10%,Aluguel mensal
+18/11/2024,Compra de calçados modelo JJ,Saída,Custo Variável,-4400,Boleto Bancário,Banco B,Compras,450,9%,Compras do mês
+22/11/2024,Venda de calçados modelo HH,Entrada,Vendas,25000,Transferência,Banco A,Vendas,2500,10%,Pagamento à vista
+25/11/2024,Recebimento de juros bancários,Entrada,Não Operacional,360,Pix,Banco A,Juros,36,10%,Juros sobre saldo bancário
+28/11/2024,Despesas com funcionários,Saída,Despesas Fixas,-4100,Transferência,Banco A,Recursos Humanos,420,8%,Salários novembro
+01/12/2024,Venda de calçados modelo KK,Entrada,Vendas,29000,Transferência,Banco A,Vendas,2900,10%,Pagamento à vista
+03/12/2024,Compra de matéria-prima,Saída,Custo Variável,-4800,Cartão de Crédito,Banco B,Compras,490,10%,Estoque inicial
+05/12/2024,Pagamento fornecedor de material,Saída,Despesas Fixas,-2700,Boleto Bancário,Banco A,Compras,280,11%,Pagamento antecipado
+10/12/2024,Marketing campanha de calçados,Saída,Despesas Variáveis,-1800,Cartão de Crédito,Banco A,Marketing,190,12%,Campanha online
+12/12/2024,Venda de calçados modelo LL,Entrada,Vendas,30000,Pix,Banco A,Vendas,3000,10%,Pagamento à vista
+15/12/2024,Pegamento aluguel do prédio,Saída,Despesas Fixas,-3200,Transferência,Banco A,Administrativa,330,10%,Aluguel mensal
+18/12/2024,Compra de calçados modelo MM,Saída,Custo Variável,-4500,Boleto Bancário,Banco B,Compras,460,10%,Compras do mês
+22/12/2024,Venda de calçados modelo KK,Entrada,Vendas,27000,Transferência,Banco A,Vendas,2700,10%,Pagamento à vista
+25/12/2024,Recebimento de juros bancários,Entrada,Não Operacional,370,Pix,Banco A,Juros,37,10%,Juros sobre saldo bancário
+28/12/2024,Despesas com funcionários,Saída,Despesas Fixas,-4200,Transferência,Banco A,Recursos Humanos,430,8%,Salários dezembro
