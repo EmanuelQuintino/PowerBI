@@ -1,0 +1,124 @@
+cliente,cpf,telefone,endereço,cidade,uf,cod_produto,produto,preço,quantidade,data_saida,prazo,data_entrega,status_entrega
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P001,Notebook,3500.00,1,2025-06-01,5,2025-06-06,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P002,Mouse,120.00,2,2025-06-02,3,2025-06-05,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P003,Teclado,180.00,1,2025-06-03,4,2025-06-07,Entregue
+João Pedro,321.654.987-11,(41)93456-7890,Rua das Acácias 77,Curitiba,PR,P004,Monitor,950.00,1,2025-06-04,6,2025-06-10,Entregue
+Fernanda Lima,159.753.486-22,(51)99988-7766,Rua da Paz 88,Porto Alegre,RS,P005,Impressora,680.00,1,2025-06-05,7,2025-06-12,Entregue
+Gabriel Nunes,852.963.741-33,(61)98876-5544,QNL 10 Bloco D,Brasília,DF,P006,Cadeira Gamer,1200.00,1,2025-06-06,4,2025-06-10,Entregue
+Juliana Ribeiro,951.357.258-44,(71)97765-4433,Rua Mar Azul 10,Salvador,BA,P007,Headset,350.00,1,2025-06-07,5,2025-06-12,Entregue
+Paulo Henrique,258.456.789-55,(85)96655-3322,Rua Sol Nascente 20,Fortaleza,CE,P008,Webcam,220.00,1,2025-06-08,3,2025-06-11,Entregue
+Laura Mendes,753.159.456-66,(95)95544-2211,Rua das Laranjeiras 33,Boa Vista,RR,P001,Notebook,3500.00,1,2025-06-09,6,2025-06-15,Entregue
+Renato Dias,147.258.369-77,(62)94433-1100,Rua 7 de Setembro 123,Goiânia,GO,P002,Mouse,120.00,3,2025-06-10,2,2025-06-12,Entregue
+Beatriz Martins,369.147.258-88,(98)93322-0099,Rua Santa Clara 45,São Luís,MA,P003,Teclado,180.00,2,2025-06-11,4,2025-06-16,Entregue
+Daniel Rocha,741.369.852-99,(91)92211-9988,Rua Verde 66,Belém,PA,P004,Monitor,950.00,1,2025-06-12,4,2025-06-16,Entregue
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P005,Impressora,680.00,1,2025-06-13,3,2025-06-16,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P006,Cadeira Gamer,1200.00,1,2025-06-14,6,2025-06-20,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P007,Headset,350.00,2,2025-06-15,5,2025-06-20,Entregue
+João Pedro,321.654.987-11,(41)93456-7890,Rua das Acácias 77,Curitiba,PR,P008,Webcam,220.00,1,2025-06-16,3,2025-06-19,Entregue
+Fernanda Lima,159.753.486-22,(51)99988-7766,Rua da Paz 88,Porto Alegre,RS,P001,Notebook,3500.00,1,2025-06-17,7,2025-06-24,Entregue
+Gabriel Nunes,852.963.741-33,(61)98876-5544,QNL 10 Bloco D,Brasília,DF,P002,Mouse,120.00,2,2025-06-18,4,2025-06-22,Entregue
+Juliana Ribeiro,951.357.258-44,(71)97765-4433,Rua Mar Azul 10,Salvador,BA,P003,Teclado,180.00,1,2025-06-19,5,2025-06-24,Entregue
+Paulo Henrique,258.456.789-55,(85)96655-3322,Rua Sol Nascente 20,Fortaleza,CE,P004,Monitor,950.00,2,2025-06-20,6,2025-06-26,Entregue
+Laura Mendes,753.159.456-66,(95)95544-2211,Rua das Laranjeiras 33,Boa Vista,RR,P005,Impressora,680.00,1,2025-06-21,5,2025-06-26,Entregue
+Renato Dias,147.258.369-77,(62)94433-1100,Rua 7 de Setembro 123,Goiânia,GO,P006,Cadeira Gamer,1200.00,1,2025-06-01,3,2025-06-05,Entregue
+Beatriz Martins,369.147.258-88,(98)93322-0099,Rua Santa Clara 45,São Luís,MA,P007,Headset,350.00,1,2025-06-02,4,2025-06-07,Entregue
+Daniel Rocha,741.369.852-99,(91)92211-9988,Rua Verde 66,Belém,PA,P008,Webcam,220.00,1,2025-06-03,3,2025-06-06,Entregue
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P001,Notebook,3500.00,1,2025-06-04,5,2025-06-09,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P002,Mouse,120.00,1,2025-06-05,3,2025-06-08,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P003,Teclado,180.00,2,2025-06-06,4,2025-06-10,Entregue
+João Pedro,321.654.987-11,(41)93456-7890,Rua das Acácias 77,Curitiba,PR,P004,Monitor,950.00,1,2025-06-07,6,2025-06-13,Entregue
+Fernanda Lima,159.753.486-22,(51)99988-7766,Rua da Paz 88,Porto Alegre,RS,P005,Impressora,680.00,1,2025-06-08,7,2025-06-15,Entregue
+Gabriel Nunes,852.963.741-33,(61)98876-5544,QNL 10 Bloco D,Brasília,DF,P006,Cadeira Gamer,1200.00,1,2025-06-09,4,2025-06-13,Entregue
+Juliana Ribeiro,951.357.258-44,(71)97765-4433,Rua Mar Azul 10,Salvador,BA,P007,Headset,350.00,1,2025-06-10,5,2025-06-15,Entregue
+Paulo Henrique,258.456.789-55,(85)96655-3322,Rua Sol Nascente 20,Fortaleza,CE,P008,Webcam,220.00,2,2025-06-11,3,2025-06-14,Entregue
+Laura Mendes,753.159.456-66,(95)95544-2211,Rua das Laranjeiras 33,Boa Vista,RR,P001,Notebook,3500.00,1,2025-06-12,6,2025-06-18,Entregue
+Renato Dias,147.258.369-77,(62)94433-1100,Rua 7 de Setembro 123,Goiânia,GO,P002,Mouse,120.00,1,2025-06-13,2,2025-06-15,Entregue
+Beatriz Martins,369.147.258-88,(98)93322-0099,Rua Santa Clara 45,São Luís,MA,P003,Teclado,180.00,2,2025-06-14,5,2025-06-19,Entregue
+Daniel Rocha,741.369.852-99,(91)92211-9988,Rua Verde 66,Belém,PA,P004,Monitor,950.00,1,2025-06-15,4,2025-06-19,Entregue
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P005,Impressora,680.00,1,2025-06-16,3,2025-06-19,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P006,Cadeira Gamer,1200.00,1,2025-06-17,6,2025-06-23,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P007,Headset,350.00,2,2025-06-18,5,2025-06-23,Entregue
+João Pedro,321.654.987-11,(41)93456-7890,Rua das Acácias 77,Curitiba,PR,P008,Webcam,220.00,1,2025-06-19,2,2025-06-22,Entregue
+Fernanda Lima,159.753.486-22,(51)99988-7766,Rua da Paz 88,Porto Alegre,RS,P001,Notebook,3500.00,1,2025-06-20,7,2025-06-27,Entregue
+Gabriel Nunes,852.963.741-33,(61)98876-5544,QNL 10 Bloco D,Brasília,DF,P002,Mouse,120.00,2,2025-06-21,4,2025-06-25,Entregue
+Juliana Ribeiro,951.357.258-44,(71)97765-4433,Rua Mar Azul 10,Salvador,BA,P003,Teclado,180.00,1,2025-06-22,5,2025-06-27,Entregue
+Paulo Henrique,258.456.789-55,(85)96655-3322,Rua Sol Nascente 20,Fortaleza,CE,P004,Monitor,950.00,2,2025-06-23,6,2025-06-29,Entregue
+Laura Mendes,753.159.456-66,(95)95544-2211,Rua das Laranjeiras 33,Boa Vista,RR,P005,Impressora,680.00,1,2025-06-24,5,2025-06-29,Entregue
+Renato Dias,147.258.369-77,(62)94433-1100,Rua 7 de Setembro 123,Goiânia,GO,P006,Cadeira Gamer,1200.00,1,2025-06-25,4,2025-06-29,Entregue
+Beatriz Martins,369.147.258-88,(98)93322-0099,Rua Santa Clara 45,São Luís,MA,P007,Headset,350.00,1,2025-06-26,5,2025-07-01,Em trânsito
+Daniel Rocha,741.369.852-99,(91)92211-9988,Rua Verde 66,Belém,PA,P008,Webcam,220.00,2,2025-06-01,3,2025-06-04,Entregue
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P003,Teclado,180.00,1,2025-06-02,4,2025-06-06,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P005,Impressora,680.00,1,2025-06-03,4,2025-06-08,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P006,Cadeira Gamer,1200.00,1,2025-06-04,6,2025-06-10,Entregue
+João Pedro,321.654.987-11,(41)93456-7890,Rua das Acácias 77,Curitiba,PR,P001,Notebook,3500.00,1,2025-06-05,7,2025-06-12,Entregue
+Fernanda Lima,159.753.486-22,(51)99988-7766,Rua da Paz 88,Porto Alegre,RS,P002,Mouse,120.00,3,2025-06-06,4,2025-06-10,Entregue
+Gabriel Nunes,852.963.741-33,(61)98876-5544,QNL 10 Bloco D,Brasília,DF,P004,Monitor,950.00,1,2025-06-07,5,2025-06-12,Entregue
+Juliana Ribeiro,951.357.258-44,(71)97765-4433,Rua Mar Azul 10,Salvador,BA,P007,Headset,350.00,1,2025-06-08,3,2025-06-11,Entregue
+Paulo Henrique,258.456.789-55,(85)96655-3322,Rua Sol Nascente 20,Fortaleza,CE,P008,Webcam,220.00,1,2025-06-09,5,2025-06-15,Entregue
+Laura Mendes,753.159.456-66,(95)95544-2211,Rua das Laranjeiras 33,Boa Vista,RR,P003,Teclado,180.00,2,2025-06-10,4,2025-06-14,Entregue
+Renato Dias,147.258.369-77,(62)94433-1100,Rua 7 de Setembro 123,Goiânia,GO,P005,Impressora,680.00,1,2025-06-11,5,2025-06-16,Entregue
+Beatriz Martins,369.147.258-88,(98)93322-0099,Rua Santa Clara 45,São Luís,MA,P006,Cadeira Gamer,1200.00,1,2025-06-12,3,2025-06-15,Entregue
+Daniel Rocha,741.369.852-99,(91)92211-9988,Rua Verde 66,Belém,PA,P001,Notebook,3500.00,1,2025-06-13,5,2025-06-20,Entregue
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P002,Mouse,120.00,2,2025-06-14,4,2025-06-18,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P004,Monitor,950.00,1,2025-06-15,5,2025-06-20,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P007,Headset,350.00,1,2025-06-16,6,2025-06-22,Entregue
+João Pedro,321.654.987-11,(41)93456-7890,Rua das Acácias 77,Curitiba,PR,P008,Webcam,220.00,1,2025-06-17,5,2025-06-22,Entregue
+Fernanda Lima,159.753.486-22,(51)99988-7766,Rua da Paz 88,Porto Alegre,RS,P003,Teclado,180.00,1,2025-06-18,3,2025-06-21,Entregue
+Gabriel Nunes,852.963.741-33,(61)98876-5544,QNL 10 Bloco D,Brasília,DF,P005,Impressora,680.00,2,2025-06-19,4,2025-06-23,Entregue
+Juliana Ribeiro,951.357.258-44,(71)97765-4433,Rua Mar Azul 10,Salvador,BA,P006,Cadeira Gamer,1200.00,1,2025-06-20,5,2025-06-26,Entregue
+Paulo Henrique,258.456.789-55,(85)96655-3322,Rua Sol Nascente 20,Fortaleza,CE,P001,Notebook,3500.00,1,2025-06-21,5,2025-06-26,Entregue
+Laura Mendes,753.159.456-66,(95)95544-2211,Rua das Laranjeiras 33,Boa Vista,RR,P002,Mouse,120.00,2,2025-06-22,4,2025-06-26,Entregue
+Renato Dias,147.258.369-77,(62)94433-1100,Rua 7 de Setembro 123,Goiânia,GO,P004,Monitor,950.00,1,2025-06-23,6,2025-06-29,Entregue
+Beatriz Martins,369.147.258-88,(98)93322-0099,Rua Santa Clara 45,São Luís,MA,P007,Headset,350.00,1,2025-06-24,3,2025-06-27,Entregue
+Daniel Rocha,741.369.852-99,(91)92211-9988,Rua Verde 66,Belém,PA,P008,Webcam,220.00,1,2025-06-25,5,2025-06-30,Entregue
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P003,Teclado,180.00,2,2025-06-26,4,2025-06-30,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P005,Impressora,680.00,1,2025-06-01,6,2025-06-07,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P006,Cadeira Gamer,1200.00,1,2025-06-02,5,2025-06-07,Entregue
+João Pedro,321.654.987-11,(41)93456-7890,Rua das Acácias 77,Curitiba,PR,P001,Notebook,3500.00,1,2025-06-03,4,2025-06-07,Entregue
+Fernanda Lima,159.753.486-22,(51)99988-7766,Rua da Paz 88,Porto Alegre,RS,P002,Mouse,120.00,2,2025-06-04,3,2025-06-07,Entregue
+Gabriel Nunes,852.963.741-33,(61)98876-5544,QNL 10 Bloco D,Brasília,DF,P004,Monitor,950.00,1,2025-06-05,7,2025-06-12,Entregue
+Juliana Ribeiro,951.357.258-44,(71)97765-4433,Rua Mar Azul 10,Salvador,BA,P007,Headset,350.00,1,2025-06-06,3,2025-06-10,Entregue
+Paulo Henrique,258.456.789-55,(85)96655-3322,Rua Sol Nascente 20,Fortaleza,CE,P008,Webcam,220.00,1,2025-06-07,2,2025-06-10,Entregue
+Laura Mendes,753.159.456-66,(95)95544-2211,Rua das Laranjeiras 33,Boa Vista,RR,P003,Teclado,180.00,2,2025-06-08,3,2025-06-12,Entregue
+Renato Dias,147.258.369-77,(62)94433-1100,Rua 7 de Setembro 123,Goiânia,GO,P005,Impressora,680.00,1,2025-06-09,5,2025-06-14,Entregue
+Beatriz Martins,369.147.258-88,(98)93322-0099,Rua Santa Clara 45,São Luís,MA,P006,Cadeira Gamer,1200.00,1,2025-06-10,6,2025-06-16,Entregue
+Daniel Rocha,741.369.852-99,(91)92211-9988,Rua Verde 66,Belém,PA,P001,Notebook,3500.00,1,2025-06-11,4,2025-06-15,Entregue
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P002,Mouse,120.00,1,2025-06-12,3,2025-06-15,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P004,Monitor,950.00,2,2025-06-13,5,2025-06-18,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P007,Headset,350.00,1,2025-06-14,6,2025-06-20,Entregue
+João Pedro,321.654.987-11,(41)93456-7890,Rua das Acácias 77,Curitiba,PR,P008,Webcam,220.00,2,2025-06-15,4,2025-06-19,Entregue
+Fernanda Lima,159.753.486-22,(51)99988-7766,Rua da Paz 88,Porto Alegre,RS,P003,Teclado,180.00,1,2025-06-16,5,2025-06-21,Entregue
+Gabriel Nunes,852.963.741-33,(61)98876-5544,QNL 10 Bloco D,Brasília,DF,P005,Impressora,680.00,1,2025-06-17,3,2025-06-20,Entregue
+Juliana Ribeiro,951.357.258-44,(71)97765-4433,Rua Mar Azul 10,Salvador,BA,P006,Cadeira Gamer,1200.00,1,2025-06-18,4,2025-06-22,Entregue
+Paulo Henrique,258.456.789-55,(85)96655-3322,Rua Sol Nascente 20,Fortaleza,CE,P001,Notebook,3500.00,1,2025-06-19,5,2025-06-24,Entregue
+Laura Mendes,753.159.456-66,(95)95544-2211,Rua das Laranjeiras 33,Boa Vista,RR,P002,Mouse,120.00,1,2025-06-20,6,2025-06-26,Entregue
+Renato Dias,147.258.369-77,(62)94433-1100,Rua 7 de Setembro 123,Goiânia,GO,P003,Teclado,180.00,2,2025-06-21,4,2025-06-25,Entregue
+Beatriz Martins,369.147.258-88,(98)93322-0099,Rua Santa Clara 45,São Luís,MA,P004,Monitor,950.00,1,2025-06-22,3,2025-06-25,Entregue
+Daniel Rocha,741.369.852-99,(91)92211-9988,Rua Verde 66,Belém,PA,P005,Impressora,680.00,1,2025-06-23,5,2025-06-28,Entregue
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P006,Cadeira Gamer,1200.00,1,2025-06-24,6,2025-06-30,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P007,Headset,350.00,1,2025-06-25,4,2025-06-29,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P008,Webcam,220.00,1,2025-06-26,5,2025-07-01,Em trânsito
+João Pedro,321.654.987-11,(41)93456-7890,Rua das Acácias 77,Curitiba,PR,P003,Teclado,180.00,1,2025-06-26,5,2025-07-01,Em trânsito
+Fernanda Lima,159.753.486-22,(51)99988-7766,Rua da Paz 88,Porto Alegre,RS,P001,Notebook,3500.00,1,2025-06-25,6,2025-07-02,Em trânsito
+Gabriel Nunes,852.963.741-33,(61)98876-5544,QNL 10 Bloco D,Brasília,DF,P002,Mouse,120.00,2,2025-06-24,4,2025-06-28,Entregue
+Juliana Ribeiro,951.357.258-44,(71)97765-4433,Rua Mar Azul 10,Salvador,BA,P004,Monitor,950.00,1,2025-06-23,6,2025-06-29,Entregue
+Paulo Henrique,258.456.789-55,(85)96655-3322,Rua Sol Nascente 20,Fortaleza,CE,P005,Impressora,680.00,1,2025-06-22,5,2025-06-27,Entregue
+Laura Mendes,753.159.456-66,(95)95544-2211,Rua das Laranjeiras 33,Boa Vista,RR,P006,Cadeira Gamer,1200.00,1,2025-06-21,3,2025-06-24,Entregue
+Renato Dias,147.258.369-77,(62)94433-1100,Rua 7 de Setembro 123,Goiânia,GO,P007,Headset,350.00,1,2025-06-20,5,2025-06-25,Entregue
+Beatriz Martins,369.147.258-88,(98)93322-0099,Rua Santa Clara 45,São Luís,MA,P008,Webcam,220.00,2,2025-06-19,4,2025-06-23,Entregue
+Daniel Rocha,741.369.852-99,(91)92211-9988,Rua Verde 66,Belém,PA,P003,Teclado,180.00,1,2025-06-18,5,2025-06-24,Entregue
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P004,Monitor,950.00,1,2025-06-17,4,2025-06-21,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P005,Impressora,680.00,1,2025-06-16,1,2025-06-19,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P006,Cadeira Gamer,1200.00,1,2025-06-15,5,2025-06-20,Entregue
+João Pedro,321.654.987-11,(41)93456-7890,Rua das Acácias 77,Curitiba,PR,P007,Headset,350.00,1,2025-06-14,6,2025-06-20,Entregue
+Fernanda Lima,159.753.486-22,(51)99988-7766,Rua da Paz 88,Porto Alegre,RS,P008,Webcam,220.00,2,2025-06-13,4,2025-06-17,Entregue
+Gabriel Nunes,852.963.741-33,(61)98876-5544,QNL 10 Bloco D,Brasília,DF,P001,Notebook,3500.00,1,2025-06-12,7,2025-06-19,Entregue
+Juliana Ribeiro,951.357.258-44,(71)97765-4433,Rua Mar Azul 10,Salvador,BA,P002,Mouse,120.00,1,2025-06-11,5,2025-06-16,Entregue
+Paulo Henrique,258.456.789-55,(85)96655-3322,Rua Sol Nascente 20,Fortaleza,CE,P003,Teclado,180.00,2,2025-06-10,4,2025-06-14,Entregue
+Laura Mendes,753.159.456-66,(95)95544-2211,Rua das Laranjeiras 33,Boa Vista,RR,P004,Monitor,950.00,1,2025-06-09,6,2025-06-15,Entregue
+Renato Dias,147.258.369-77,(62)94433-1100,Rua 7 de Setembro 123,Goiânia,GO,P005,Impressora,680.00,1,2025-06-08,5,2025-06-13,Entregue
+Beatriz Martins,369.147.258-88,(98)93322-0099,Rua Santa Clara 45,São Luís,MA,P006,Cadeira Gamer,1200.00,1,2025-06-07,1,2025-06-10,Entregue
+Daniel Rocha,741.369.852-99,(91)92211-9988,Rua Verde 66,Belém,PA,P007,Headset,350.00,2,2025-06-06,4,2025-06-10,Entregue
+Ana Souza,123.456.789-01,(11)91234-5678,Rua das Flores 123,São Paulo,SP,P008,Webcam,220.00,1,2025-06-05,3,2025-06-08,Entregue
+Carlos Lima,987.654.321-00,(21)99887-6655,Rua Central 234,Rio de Janeiro,RJ,P003,Teclado,180.00,1,2025-06-04,5,2025-06-09,Entregue
+Marina Costa,456.789.123-09,(31)91122-3344,Av. Brasil 456,Belo Horizonte,MG,P004,Monitor,950.00,1,2025-06-03,4,2025-06-07,Entregue
